@@ -531,8 +531,8 @@ class MonitorEEG:
 
 #  Main 
 def main():
-    client_id     = 'yVJVw4Q44g5uVsCPmb1yGf8N0UTfIGbWdLeEHrJM'
-    client_secret = ('Xp27kK3CzWFXycz4V4ioJRiTUqAFFxFtCPyHRowmmmKn3xyeZsulw0GC3HyTIxBjjnwC7D76uWUADQAqIi0ygeRBFaLNm8EYQNEJVttU3OwBQmDjYPscFWEV1kSk37Cc')
+    client_id     = 'CLIENTE'
+    client_secret = ('PASWORD')
 
     launcher = Launcher()
 
